@@ -1,4 +1,5 @@
 # The Algorithms - JavaScript
+Hi This is an amazing project.
 
 <!-- Front Matter -->
 JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
